@@ -1,0 +1,38 @@
+//task   Generate OTp
+
+//function generateOTP(){
+ // var OTP = Math.floor((Math.random()*3650) * (
+  //  Math.floor(Math.random()*14700)));
+    //return "Z-"+OTP;
+//}
+//var myOTP = generateOTP();
+//alert("Your OTP is "+myOTP)
+
+
+// task 2: Find Upcoming next 1o leap years;
+
+//function upcoming year(){
+ // let currentyear = newDate().getFullYear();
+ // let leapyears = [];
+ // for(i= currentyears;i< currentyear + 10;i++){
+
+  // if(i % 4=== 0 ) {
+  //  leapyears.push(i)
+  // }
+ // }
+  //return leapyears;
+
+//}
+//let leap = upcomingyears();
+//alert("these " + leap+"years are leap years");
+
+// Leap year check
+//function isLeapyear() {
+  //let currentyear = new Date().getFullYear();
+  //if (currentyear % 4 ===  0) {
+    //aleart ("The Year"+ currentyear + "is a leap year");
+ // } else{
+   // alert("the year "+ currentyear + "is not a leap year.");
+
+//  }
+//}
